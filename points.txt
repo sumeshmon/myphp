@@ -1,0 +1,2 @@
+1. If the text box value is already exists show error
+2. 
