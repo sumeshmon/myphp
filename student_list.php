@@ -29,10 +29,8 @@ $result 		= mysql_query($sql_select);
 			<table class="table">
 				<tr>
 					<th>Date</th>
-					<th>ID</th>
-					<th>First Name</th>
-					<th>Middle Name</th>
-					<th>Last Name</th>
+					<th>ID</th>					
+					<th>Name</th>
 					<th>Parent Name	</th>
 					<th>Sex</th>
 					<th>Date Of Birth</th>
