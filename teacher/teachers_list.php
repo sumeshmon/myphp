@@ -19,6 +19,9 @@ $row 				= mysql_fetch_assoc($result);
 	<link rel="stylesheet" type="text/css" href="assets/css/app.css">
 </head>
 <body>
+<div class="container">
+	sdfhs
+</div>
 	
 		
 		<script type="text/javascript" src="assets/js/app.js"></script>
